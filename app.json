@@ -13,7 +13,8 @@
         {
           "origin": "https://n"
         }
-      ]
+      ],
+      "expo-font"
     ],
     "name": "visit-app",
     "slug": "visit-app"
